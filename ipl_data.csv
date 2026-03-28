@@ -1,0 +1,13 @@
+match_id,team,opponent,runs,wickets,winner,player_of_match
+1,CSK,MI,180,5,CSK,Dhoni
+2,MI,RCB,170,6,MI,Rohit
+3,RCB,CSK,160,7,CSK,Kohli
+4,KKR,MI,150,8,MI,Rohit
+5,CSK,RCB,200,4,CSK,Dhoni
+6,MI,KKR,190,5,MI,Pollard
+7,RCB,KKR,175,6,RCB,Kohli
+8,KKR,CSK,165,7,CSK,Raina
+9,CSK,KKR,210,3,CSK,Dhoni
+10,MI,CSK,185,6,MI,Rohit
+11,RCB,MI,178,5,RCB,Kohli
+12,KKR,RCB,160,7,KKR,Narine
